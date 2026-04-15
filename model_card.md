@@ -48,9 +48,13 @@ Add valence and tempo features. Implement collaborative filtering. Improve diver
 
 ---
 
-## Personal Reflection
+## 9. Personal Reflection
 
-Biggest learning: How simple rules can create effective recommendations. AI tools helped brainstorm and debug code. Surprised by how energy weight shifts rankings drastically. Next, I'd add user feedback loops.  
+What surprised me about how the system behaved was how drastically rankings shifted when I doubled the energy weight, showing that small changes in scoring can have big impacts on recommendations.
+
+Building this changed how I think about real music recommenders by revealing the complexity behind simple-seeming suggestions—it's not just matching, but balancing multiple factors.
+
+Human judgment still matters in understanding context, like cultural nuances or emotional subtleties that data alone can't capture, even if the model seems smart.  
 
 ---
 
